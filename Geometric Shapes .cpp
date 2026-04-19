@@ -1,3 +1,9 @@
+//used the concept in this code *Abstraction* // **Inheritance // **Encapsulation //
+
+// وما توفيقي الا بالله
+
+//**//
+
 #include <iostream>
 using namespace std;
 
